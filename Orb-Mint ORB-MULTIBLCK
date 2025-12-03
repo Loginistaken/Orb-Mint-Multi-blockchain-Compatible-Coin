@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// Orbimint: Eco-Friendly, AI-Compatible Blockchain Coin
+// "Orb-Mint  (Multi-blockchain Compatible Coin)": Eco-Friendly, AI-Compatible Blockchain Coin
 // Language: C++ (interacts with Rust and ERC-20 via bridges)
 #include <iostream>
 int main() {
@@ -78,8 +78,8 @@ bool approveBlockAI(const std::string& blockData) {
 // ------------------------------
 constexpr uint8_t DECIMALS = 7;
 constexpr uint64_t INITIAL_SUPPLY = 700000000000000000; // 7 BILLION with 7 decimals
-std::string COIN_NAME = "Orbimint";
-std::string COIN_SYMBOL = "ORBIM";
+std::string COIN_NAME = "Orb-Mint-Multi-blockchain-Compatible-Coin";
+std::string COIN_SYMBOL = "ORB-MULTIBLCK";
 constexpr uint64_t BLOCK_INTERVAL_MS = 3000; // 10 seconds per block
 
 bool lightNodeMode = false; // Flag for ultralight mode
