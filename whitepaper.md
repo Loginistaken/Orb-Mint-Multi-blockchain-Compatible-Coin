@@ -2,7 +2,7 @@ Future-Proof, Low gas fee, Multi-Blockchain  Compatible, & next generation AI in
 
 Orb-Mint-Multi-blockchain-Compatible-Coin is an advanced blockchain created to meet the demands of the future
 by integrating, low-gas principles & fees, 
-along with seamless compatibility and next-generation AI technologies. As blockchain and AI continue to intersect, Orbimint provides a scalable, 
+along with seamless compatibility and next-generation AI technologies. As blockchain and AI continue to intersect, ORB-MULTIBLCK provides a scalable, 
 decentralized, co-develop alongside AI and blockchain evolution, ensuring longevity and sustainability. Its modular design
 allows for easy upgrades and ensures that it can integrate new innovations without losing its core identity.
 Designed to endure and thrive across evolving digital environments. By combining modular blockchain architecture
@@ -38,10 +38,10 @@ and intelligent scalability.
 
 Precision-Scaled Supply:
 At its core, Orb-mint uses 7 decimal precision (e7) rather than the larger decimal holding places for precise measurments of
-value although smaller memes use larger decimals to help point out the fractions of a 
-coin, we implemnet less coin in intial minting and antictipate larger than average meme scale value. After all despite being 
+value although smaller memes use larger decimals to help point out the fractions of a Orb-Mint-Multi-blockchain-Compatible-Coin, we implemnet less coin in intial minting and antictipate larger than average meme scale value. After all despite being 
 compatible with other blocks this coin has its own Block-, it's built to run fast and in syntax formation in CPP.
-This design is more than symbolic—it mathematically aligns with Orbimint’s total supply of 7,000,000,000 tokens (expressed in 
+This design is more than symbolic—it mathematically aligns with 
+’s total supply of 7,000,000,000 tokens (expressed in 
 code as 70'000'000'000'000'000. to preserve micro-level accounting accuracy). This decision reduces computational overhead and 
 simplifies gas estimation across millions of transactions, offering a cleaner, more energy-efficient footprint over time. 
 While 18 decimals may be more flexible for DeFi derivatives, Orbimint's use of e7 precision intentionally limits micro-
@@ -54,12 +54,12 @@ resource demands. Future bridges with Rust and WASM-based smart contract environ
 edge while expanding developer flexibility.
 
 Lean Memory Through Smart Pruning:
-Orbimint automatically prunes inactive accounts—wallets with zero balances—to reduce long-term memory bloat. 
+Orb-Mint-Multi-blockchain-Compatible-Coin automatically prunes inactive accounts—wallets with zero balances—to reduce long-term memory bloat. 
 This ensures that the blockchain ledger remains lightweight, favoring nodes with minimal storage capacities 
 and reducing unnecessary data replication across the network.
 
 Light Node Mode & Compression Path:
-Orbimint includes a lightNodeMode flag that triggers data compression on block metadata (currently 
+Orb-Mint-Multi-blockchain-Compatible-Coin includes a lightNodeMode flag that triggers data compression on block metadata (currently 
 simulated with zlib, with future plans for zstd/LZ4). This will allow underpowered devices—IoT nodes, 
 mobile agents, even browser-based clients—to participate without full ledger replication, slashing both energy usage 
 and bandwidth costs.
@@ -105,7 +105,7 @@ Cross-Chain Native, Future-Ready by Design
 Orbimint supports future adoption of cross-chain messaging standards like IBC and Chainlink CCIP, ensuring secure and verifiable communication across heterogeneous blockchains. Cross-chain tokens are auto-wrapped on import/export, maintaining integrity during bridge interactions.
 Orbimint is not siloed. Its C++ core is deliberately crafted with interoperability hooks 
 and low-level compatibility bridges in mind. As blockchain ecosystems mature and fragment
-across L1s, L2s, and sidechains, Orbimint embraces multi-chain adaptability without sacrificing speed or security.
+across L1s, L2s, and sidechains, ORB-MULTIBLCK embraces multi-chain adaptability without sacrificing speed or security.
 
 Bridging Made Modular:
 Orbimint uses a modular architecture where core ledger logic, smart contract handlers, and 
@@ -115,25 +115,31 @@ and even emerging WASM-based VMs. Future bridges will leverage ABI translation l
 gas events, and burn operations across chains with minimal friction.
 
 Language-Agnostic Expansion:
-Written in C++, Orbimint naturally interoperates with Rust, Go, and Python through FFI (Foreign Function Interfaces), 
+Written in C++, ORB-MULTIBLCK naturally interoperates with Rust, Go, and Python through FFI (Foreign Function Interfaces), 
 allowing developers to layer AI modules, DeFi triggers, or cross-chain routing tools without rewriting core consensus logic. 
 This guarantees longevity in a multi-language Web3 stack.
 
 Smart Contract Agnosticism:
-While many blockchains enforce a single smart contract language (e.g., Solidity or Move), Orbimint treats smart contracts
+While many blockchains enforce a single smart contract language (e.g., Solidity or Move),     Orb-Mint-Multi-blockchain-Compatible-Coin
+
+ treats smart contracts
 as portable modules. Developers can compile contract logic in external environments and run them within Orbimint’s
 thread-safe C++ context, maintaining compatibility with tools like Hardhat, Ink!, or CosmWasm, all while benefiting 
-from Orbimint’s memory-safe execution model.
+from     Orb-Mint-Multi-blockchain-Compatible-Coin’s memory-safe execution model.
 
 Next-Gen Support:
 Orbimint anticipates next-gen needs:
 
-    Blockchain Bridges: Orbimint supports cross-chain compatibility, allowing seamless interactions with other 
+    Blockchain Bridges:     Orb-Mint-Multi-blockchain-Compatible-Coin
+
+ supports cross-chain compatibility, allowing seamless interactions with other 
     blockchain networks.
     It connects to Ethereum, Solana, and various Layer 2 solutions, providing a versatile platform for 
     developers and users alike.
 
-    Governance and Community Involvement: Orbimint is governed by a decentralized autonomous organization (DAO),
+    Governance and Community Involvement:     Orb-Mint-Multi-blockchain-Compatible-Coin
+
+ is governed by a decentralized autonomous organization (DAO),
     where community members and token holders can propose and vote on protocol upgrades, ensuring transparency 
     and inclusivity in the network’s evolution.
     
