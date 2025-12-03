@@ -8,7 +8,7 @@ allows for easy upgrades and ensures that it can integrate new innovations witho
 Designed to endure and thrive across evolving digital environments. By combining modular blockchain architecture
 with intelligent automation, Orb-Mint-Multi-blockchain-Compatible-Coin protocol remains flexible, efficient,
 and aligned with next generations technologies.
-Orbimint emerges as a sovereign cryptographic asset engineered for long-term adaptability and regulatory resilience.
+Orb-Mint-Multi-blockchain-Compatible-Coin emerges as a sovereign cryptographic asset engineered for long-term adaptability and regulatory resilience.
 As legacy paper-based financial systems recede into obsolescence, a global shift
 toward decentralized assets has accelerated—driven and next generations may increase regulatory scrutiny and environmental 
 consequences may arrive pertaining to high-gas blockchain operations. Orb-Mint-Multi-blockchain-Compatible-Coin
@@ -18,7 +18,7 @@ may govern certian information reguarding digital asset compliance and enforceab
 Orb-Mint-Multi-blockchain-Compatible-Coin survives and thrives—an autonomous asset with upgrade-ready frameworks, 
 low computational overhead, and an open invitation to co-evolve
 alongside both artificial intelligence and blockchain governance. By orbiting away from inflationary, 
-carbon-heavy financial systems, Orbimint affirms its role as a foundational cornerstone
+carbon-heavy financial systems, Orb-Mint-Multi-blockchain-Compatible-Coin affirms its role as a foundational cornerstone
 in the post-regulatory cryptosphere.
 
 Key Features:
@@ -37,7 +37,7 @@ rapidly moving away from physical money. Its foundational architecture is rooted
 and intelligent scalability.
 
 Precision-Scaled Supply:
-At its core, Orb-mint uses 7 decimal precision (e7) rather than the larger decimal holding places for precise measurments of
+At its core, Orb-Mint-Multi-blockchain-Compatible-Coin uses 7 decimal precision (e7) rather than the larger decimal holding places for precise measurments of
 value although smaller memes use larger decimals to help point out the fractions of a Orb-Mint-Multi-blockchain-Compatible-Coin, we implemnet less coin in intial minting and antictipate larger than average meme scale value. After all despite being 
 compatible with other blocks this coin has its own Block-, it's built to run fast and in syntax formation in CPP.
 This design is more than symbolic—it mathematically aligns with 
