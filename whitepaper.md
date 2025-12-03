@@ -1,25 +1,29 @@
 Future-Proof, Low gas fee, Multi-Blockchain  Compatible, & next generation AI integration plus Web3 
 
-Orbimint is an advanced blockchain created to meet the demands of the future by integrating, low-gas principles & fees, 
+Orb-Mint-Multi-blockchain-Compatible-Coin is an advanced blockchain created to meet the demands of the future
+by integrating, low-gas principles & fees, 
 along with seamless compatibility and next-generation AI technologies. As blockchain and AI continue to intersect, Orbimint provides a scalable, 
 decentralized, co-develop alongside AI and blockchain evolution, ensuring longevity and sustainability. Its modular design
 allows for easy upgrades and ensures that it can integrate new innovations without losing its core identity.
 Designed to endure and thrive across evolving digital environments. By combining modular blockchain architecture
-with intelligent automation, Orbimint protocol remains flexible, efficient, and aligned with next generations technologies.
+with intelligent automation, Orb-Mint-Multi-blockchain-Compatible-Coin protocol remains flexible, efficient,
+and aligned with next generations technologies.
 Orbimint emerges as a sovereign cryptographic asset engineered for long-term adaptability and regulatory resilience.
 As legacy paper-based financial systems recede into obsolescence, a global shift
 toward decentralized assets has accelerated—driven and next generations may increase regulatory scrutiny and environmental 
-consequences may arrive pertaining to high-gas blockchain operations. Orbimint anticipates this paradigm by architecting its own energy-efficient, 
+consequences may arrive pertaining to high-gas blockchain operations. Orb-Mint-Multi-blockchain-Compatible-Coin
+anticipates this paradigm by architecting its own energy-efficient, 
 scalable blockchain infrastructure, the new dependency could pertain to gas-intensive ecosystems. In a future where next-generation AI
 may govern certian information reguarding digital asset compliance and enforceable sustainability thresholds become the norm, 
-Orbimint survives and thrives—an autonomous asset with upgrade-ready frameworks, low computational overhead, and an open invitation to co-evolve
+Orb-Mint-Multi-blockchain-Compatible-Coin survives and thrives—an autonomous asset with upgrade-ready frameworks, 
+low computational overhead, and an open invitation to co-evolve
 alongside both artificial intelligence and blockchain governance. By orbiting away from inflationary, 
 carbon-heavy financial systems, Orbimint affirms its role as a foundational cornerstone
 in the post-regulatory cryptosphere.
 
 Key Features:
 
-    Low-Gas Architecture: Orbimint prioritizes transaction efficiency through its optimized consensus 
+    Low-Gas Architecture: Orb-Mint-Multi-blockchain-Compatible-Coinprioritizes transaction efficiency through its optimized consensus 
     mechanisms and lightweight data
     structures. It reduces gas fees significantly, making it suitable for both microtransactions and 
     large-scale applications while maintaining network integrity.
@@ -27,12 +31,13 @@ Key Features:
 
 Eco-Conscious by Design:
 
-Orbimint isn't just another blockchain—it is a conscious response to the digital evolution of currency in an era 
+Orb-Mint-Multi-blockchain-Compatible-Coin isn't just another blockchain—it is a conscious response to 
+the digital evolution of currency in an era 
 rapidly moving away from physical money. Its foundational architecture is rooted in sustainability, clean computation, 
 and intelligent scalability.
 
 Precision-Scaled Supply:
-At its core, Orbimint uses 7 decimal precision (e7) rather than the larger decimal holding places for precise measurments of
+At its core, Orb-mint uses 7 decimal precision (e7) rather than the larger decimal holding places for precise measurments of
 value although smaller memes use larger decimals to help point out the fractions of a 
 coin, we implemnet less coin in intial minting and antictipate larger than average meme scale value. After all despite being 
 compatible with other blocks this coin has its own Block-, it's built to run fast and in syntax formation in CPP.
