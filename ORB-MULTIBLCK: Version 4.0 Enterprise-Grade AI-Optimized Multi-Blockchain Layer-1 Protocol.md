@@ -1,6 +1,6 @@
 ORB-MULTIBLCK: Version 4.0 Enterprise-Grade AI-Optimized Multi-Blockchain Layer-1 Protocol
 
-Whitepaper v3.0 – Comprehensive Institutional & Engineering Edition
+Whitepaper v4.0 – Comprehensive Institutional & Engineering Edition
 Date: February 2026
 Status: Production-Ready Specification
 Target Rating: 9.5/10 (Institutional Grade)
