@@ -163,3 +163,7 @@ These seven architectural principles form the foundation of ORB‑MULTIBLCK:
 7. Modular upgradeable protocol architecture
 
 Together they aim to create a blockchain that is energy‑efficient, scalable, interoperable, and capable of evolving alongside future technological demands.
+
+Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments (ChatGPT, GitHub Copilot)as well as bring special thanks OpenAI gpt chat for bring us the images. All combinatorial elements, structural mappings, material configurations, and thermoelectric AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright, intellectual property, and patent framework
+
+Acknowledgments to: The open-source community, blockchain innovators, and cryptographic researchers for their ongoing contributions.
